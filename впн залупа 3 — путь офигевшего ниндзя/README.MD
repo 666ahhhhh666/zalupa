@@ -177,7 +177,7 @@ CSP-совместимые скрипты
 
 English Version
 Project Overview
-Fully responsive landing page for LaslesVPN service based on Figma design (link). Key features:
+Fully responsive landing page for LaslesVPN service based on Figma design (https://www.figma.com/design/dBlNsWpMVAktZT0RloxgOM/Landingpage-VPN--Community-?node-id=1-2&t=Ma56g972nARNOpkh-0). Key features:
 
 Full responsiveness (mobile, tablet, desktop)
 
@@ -194,7 +194,7 @@ Project Structure:
 
 index.html - main page
 
-style.css - styles (1,517 lines)
+style.css - styles
 
 static/images/ - media assets
 
@@ -282,7 +282,7 @@ Original design issues addressed during implementation:
 
 Text Elements:
 
-Fixed 7+ punctuation errors
+Fixed punctuation errors
 
 Replaced placeholder text with meaningful copy
 
